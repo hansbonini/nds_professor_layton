@@ -1,0 +1,6 @@
+@1&SetAni 1 talk&Algum idiota veio e levantou a ponte
+enquanto eu estava na minha pausa.
+&SetAni 1 mufu&Hrmph!@p
+@c&SetAni 1 talk&Entäo, quando pensei que näo podia ficar
+pior, o canalha sumiu com a minha única
+manivela! &SetAni 1 mufu&Hrmph!

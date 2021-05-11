@@ -1,0 +1,3 @@
+@3Quem poderia imaginar que ele seria
+um cara legal?@p &SetAni 2 smile& Podemos ir para a
+praça da vila agora?

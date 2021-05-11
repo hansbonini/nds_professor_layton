@@ -1,0 +1,2 @@
+Vocês dois outra vez!
+@p &SetAni 0 point&O que fazem aqui?! O que querem?!

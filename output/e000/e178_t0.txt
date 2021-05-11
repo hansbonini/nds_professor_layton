@@ -1,0 +1,12 @@
+@1Ei, aí fora procurando pelo Ramon,
+näo é? Sim, você definitivamente está 
+procurando por ele.@p
+@cMas ainda näo encontrou o cara?
+@pEscute, as ruas aqui säo perigosas
+à noite. Muito perigosas!@p
+@cVocê näo pode sair pela vila com um
+garoto!@p Porque isso é perigoso! Muito
+perigoso!@p
+@cSinto que terei que puni-lo por isso com
+um enigma. Mas você vai resolvê-lo, né?
+É claro!

@@ -1,0 +1,5 @@
+Acho que minha intuiçäo nos enganou
+dessa vez, Luke.@p
+@c&SetAni 0 talk_hands&Venha, vamos voltar para o centro de
+St. Mystère e procurar por uma
+direçäo.

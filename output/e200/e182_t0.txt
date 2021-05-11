@@ -1,0 +1,5 @@
+Você pode colocar a mobília que recolheu
+tanto no quarto de Luke quanto no do
+Professor Layton.@p
+@cUse sua stylus para mover um item.
+@pQuando você move um item...

@@ -1,0 +1,6 @@
+@3Ah, entäo foi ele o homem que fugiu da
+conta!@p Faz sentido, era Don Paolo!@p
+@c&SetAni 1 angry&Entäo aquela fuinha se fantasiou de
+Inspetor Chelmey, adentrou na mansäo,
+e...@p
+@c&SetAni 1 mouthopen&Espere aí. Como ele matou Simon?

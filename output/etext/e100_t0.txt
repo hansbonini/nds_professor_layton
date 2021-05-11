@@ -1,0 +1,8 @@
+Devemos respeitar os desejos do
+inspetor e deixar o caso do
+assassinato de lado, Luke.@p
+@c&SetAni 0 talk_hands&Como o Inspetor Chelmey disse, resolver
+crimes é trabalho da polícia.@p
+@c&SetAni 0 smile&Contudo, algo me diz que esse caso
+e a Maçä Dourada estäo mais
+relacionados do que imaginamos.

@@ -1,0 +1,11 @@
+Mova as peças na tela de montagem com
+sua stylus.@p
+@cPara movê-la pela tela, toque a peça
+dentro do círculo que aparece.@p
+@cSe você tocar a peça fora do círculo,
+entäo poderá rotacioná-la desenhando
+um círculo com sua stylus.@p
+@cEncontre todas as 20 peças e remonte
+a pintura.@p
+@cQuando você terminar de montar a
+pintura@W2.@W2.@W2.@W2 algo bom irá acontecer!

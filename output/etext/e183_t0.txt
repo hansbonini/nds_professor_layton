@@ -1,0 +1,3 @@
+Toque numa peça da pintura para ir
+à tela de montagem, onde pode
+colocar a peça selecionada.

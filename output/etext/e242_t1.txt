@@ -1,0 +1,4 @@
+@1O rio que cerca quase toda St. Mystère
+está logo após esse cano.@p
+@c&SetAni 0 angry&Mas näo fique aí tendo ideias! Você
+näo pode atravessá-lo.

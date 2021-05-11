@@ -1,0 +1,11 @@
+@3&SetAni 0 talk&"Ser um cavalheiro e encontrar o ladräo
+que näo pagou a conta."@p
+@cHonestamente, quando vamos ter
+progresso na nossa busca pela
+Maçä Dourada?@p
+@c&SetAni 1 talk&As coisas näo estäo nada boas. Ninguém
+sabe nada sobre o item em questäo, e nós
+näo temos nenhuma direçäo a seguir.@p
+@cComeço a ter dúvidas se essa
+Maçä Dourada, que todo mundo
+está atrás, realmente existe.

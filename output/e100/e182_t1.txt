@@ -1,0 +1,4 @@
+Ele aparece na tela superior, no quarto
+que você escolheu.@p
+@cComo posicionar os itens nos quartos,
+fica ao seu critério.

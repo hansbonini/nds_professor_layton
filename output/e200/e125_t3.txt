@@ -1,0 +1,5 @@
+Bem, temos coisas melhores a fazer do
+que passear naquela coisa, näo é?@p
+@c&SetAni 0 talk&Em algum lugar desse parque está
+escondida uma pista sobre a localizaçäo
+da Maçä Dourada. Tenho certeza.

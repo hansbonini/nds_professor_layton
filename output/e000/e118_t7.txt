@@ -1,0 +1,5 @@
+A torre fica nos limites de
+St. Mystère, ao norte.@p
+@cVamos procurar por uma rota para
+a torre na estrada ao norte do
+mercado.

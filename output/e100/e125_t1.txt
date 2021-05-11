@@ -1,0 +1,4 @@
+Sim, é muito triste, näo é?@p
+@c&SetAni 0 talk&...Estranho. Isso era claramente um
+parque de diversöes itinerante. Por que
+foi largado às traças em St. Mystère?

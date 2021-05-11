@@ -1,0 +1,5 @@
+Todos o esperam no primeiro andar.@p 
+Ah, mas antes de ir, tenho uma 
+mensagem de Lady Dahlia.@p
+@cEla pediu para que você desse 
+uma olhada neste enigma.

@@ -1,0 +1,5 @@
+@3E isso deve ter sido quando ele decidiu
+se disfarçar de Inspetor Chelmey,
+certo?@p
+@c&SetAni 1 mouthopen&Aquele impertinente inventou toda
+essa história de assassinato na hora!

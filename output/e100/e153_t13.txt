@@ -1,0 +1,4 @@
+@3Agora, por que você nos diria algo
+assim?@p
+@c&SetAni 2 angry&Aposto que você quer nos enganar e
+levar direto para uma armadilha!

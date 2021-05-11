@@ -1,0 +1,5 @@
+@1Ah, sim, deixe-me lhe dar uma dica.
+Vê aquela velha torre maluca atrás
+do pátio da vila?@p
+@cEscute um conselho meu: se sabe o que é
+bom para você, fique longe daquela coisa.

@@ -1,0 +1,5 @@
+@3Obrigada, Professor.@p
+@cPois bem, esse enigma é muito difícil,
+e eu näo estou com clima para enfrentar
+esse desafio.@p
+@cPoderia resolvê-lo para mim?

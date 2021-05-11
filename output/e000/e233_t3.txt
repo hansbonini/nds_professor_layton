@@ -1,0 +1,6 @@
+...Que curioso.@p
+@c&SetAni 0 talk_hands&Entäo onde é que você gostaria de ir?
+Se você descer pelas escadas, poderá
+retornar à vila.@p
+@cCertifique-se de näo cair no grande
+buraco da entrada.

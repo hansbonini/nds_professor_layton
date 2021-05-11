@@ -1,0 +1,2 @@
+@1Hmph. Näo está aqui pelo prato especial
+entäo, hein?@p &SetAni 0 talk&Bem, o que quer saber?

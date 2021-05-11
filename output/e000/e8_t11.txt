@@ -1,0 +1,9 @@
+Quando você ganha um novo item para
+Luke e o professor, é perguntado onde
+você quer colocá-lo.@p
+@cVocê sempre pode reorganizar seus itens,
+entäo näo se preocupe muito onde irá
+colocá-los da primeira vez.@p
+@cSe um dos quartos estiver cheio, o novo
+item irá para o quarto com espaço
+disponível.

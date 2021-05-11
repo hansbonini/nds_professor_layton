@@ -1,0 +1,8 @@
+Ha ha ha! Quem sabe como Bruno via
+isso, Luke. Estou certo de que ele
+estava sendo cauteloso.@p
+@c&SetAni 0 talk&Até porque, Don Paolo conseguiu
+entrar na vila junto conosco.@p
+@cBruno provavelmente estava bastante
+ocupado e precisava ver que tipo de
+pessoas entraram na vila.

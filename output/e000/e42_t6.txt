@@ -1,0 +1,4 @@
+Claro, vamos indo.@p
+@c&SetAni 1 smile&Espere aí.
+Vamos dar uma olhada no que
+há atrás daquela porta azul.

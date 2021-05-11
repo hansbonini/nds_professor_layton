@@ -1,0 +1,6 @@
+Há um tempo, quando Flora era apenas
+uma criancinha, Lady Viola costumava
+levá-la ao parque.@p
+@c&SetAni 2 talk&Algumas das flores que crescem aqui no
+jardim säo as que Flora plantou para
+sua mäe.

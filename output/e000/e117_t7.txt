@@ -1,0 +1,11 @@
+Inspetor Chelmey? Ele näo é o cara
+arrogante e chato que está na
+Mansäo Reinhold?@p
+@c&SetAni 0 talk_big&Näo, näo é ele. O homem que ficou aqui
+parecia muito mais... malvado.@p
+@cEle estava vestindo uma longa capa de
+chuva. Tenho certeza que conhece o tipo.
+Ah, onde será que ele se meteu?!@p
+@c&SetAni 0 talk&Sinto perguntar isto, Professor, mas
+você seria um cavalheiro e procuraria
+o ladräo que näo pagou a conta?

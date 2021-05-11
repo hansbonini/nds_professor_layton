@@ -1,0 +1,5 @@
+@1Deixe-me dizer, ultimamente St. Mystère
+tem se tornado um lugar perigoso.@p
+@cExemplo: näo tenho visto Ramon desde
+ontem.@p Aquele patife está perdido ou
+algo assim?

@@ -1,0 +1,16 @@
+@3Ah, olá. É um prazer conhecê-lo.@p
+Bem-vindo a St. Mystère, mais conhecida
+pelos seus fantásticos... enigmas!@p
+@cAh, antes que eu esqueça,&SetAni 0 pachi&@p&SetAni 0 talk& deve saber que
+cada vez que resolve um enigma se ganha
+uma certa quantidade de picarats.@p
+@cQuanto mais picarats o enigma valer,
+mais difícil ele será.@p
+@cDizem que coisas incríveis acontecem
+quando você consegue muitas picarats.@p
+@cImagine só, uma recompensa
+por resolver enigmas!@p
+@cPara praticar, tente resolver esta 
+pequena charada que o seu chapéu me
+fez lembrar.@p
+@cPense bastante antes de responder.&SetAni 0 pachi&

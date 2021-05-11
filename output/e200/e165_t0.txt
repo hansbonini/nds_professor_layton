@@ -1,0 +1,5 @@
+@3&SetAni 1 smile&Graças aos céus você está bem,
+Professor! @p&SetAni 1 angry&Que coisa terrível aquela
+geringonça voadora de Don Paolo!@p
+@cRealmente pensei que esse era
+o nosso fim.

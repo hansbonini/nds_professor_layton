@@ -1,0 +1,7 @@
+@1He he he! Que pessoas mais elegantes
+vocês säo. Devem ser novos em
+St. Mystère, certo?@p
+@cChamo-me Stachenscarfen e tenho
+alguns conselhos para os dois.@p
+@c&SetAni 0 angry&Toque naquele barril ali atrás com a sua
+stylus.@p

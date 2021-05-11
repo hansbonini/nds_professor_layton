@@ -1,0 +1,6 @@
+A opçäo Pintura foi adicionada à mala.
+Você pode montar os fragmentos da
+antiga pintura lá.@p
+@cPara acessar a pintura, toque a mala
+para abri-la, e entäo toque no ícone
+da Pintura.

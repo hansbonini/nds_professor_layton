@@ -1,0 +1,6 @@
+@1Ah, um cliente! Bem-vindo, bem-vindo!@p
+@cEu tenho uma grande quantidade de
+salsicha hoje.@p
+@cE o meu bife de saia vai fazer de
+qualquer prato, um prato chique!
+Har har!

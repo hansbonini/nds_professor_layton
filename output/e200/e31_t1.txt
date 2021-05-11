@@ -1,0 +1,3 @@
+Após fazer isso, um conjunto de setas
+irá aparecer na tela. Toque numa delas
+para andar naquela direçäo.

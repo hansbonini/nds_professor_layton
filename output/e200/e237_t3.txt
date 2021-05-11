@@ -1,0 +1,4 @@
+@3Agora podemos continuar a subida.@p
+@c&SetAni 1 mouthopen&Sabe, é muito estranho o fato desta
+torre ser simplesmente enorme, e näo
+ter quase nada dentro.

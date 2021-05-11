@@ -1,0 +1,3 @@
+@1De volta, hä? Hrmph! @p
+Veja se consegue resolver 
+o enigma desta vez! &SetAnim 1 mufu& 

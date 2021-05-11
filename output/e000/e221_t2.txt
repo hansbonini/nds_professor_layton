@@ -1,0 +1,6 @@
+Desculpe-me dizer isto, Professor,
+mas o mestre nunca me disse algo do
+tipo.@p
+@c&SetAni 1 sad&Eu realmente gostaria de ajudar vocês
+nessa busca, mas os meus deveres aqui
+me impedem de sair deste local.

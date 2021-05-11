@@ -1,0 +1,5 @@
+Este é o centro comunitário da vila.
+Que compromissos vocês têm aqui?@p
+@cSe vocês acabaram de se mudar,
+recomendo que preencham o formulário
+de "mudança de endereço".

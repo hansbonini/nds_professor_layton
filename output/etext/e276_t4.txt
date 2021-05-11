@@ -1,0 +1,8 @@
+Acalme-se, Luke. Por que näo me deixa
+conversar com ela.@p
+@c&SetAni 0 talk_hands&Desculpe atrapalhá-la, Sra. Riddleton,
+mas em relaçäo a clarividência, você
+quis dizer que tem poderes psíquicos?@p
+@cVocê pode fazer coisas como localizar
+um criminoso na multidäo ou visualizar
+o local de objetos perdidos?

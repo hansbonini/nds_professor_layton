@@ -1,0 +1,10 @@
+Eu escutei tudo isso de outras pessoas,
+entäo näo sei responder.@p
+@cVocê precisa encontrar uma fonte
+melhor sobre fofocas da vila.@p
+@c&SetAni 2 bigmouth&Talvez você queira ir à cafeteria.
+Lá, você escutará os rumores direto
+da fonte.@p
+@c&SetAni 2 smallmouth&Já está anoitecendo, entäo é provável
+que a cafeteria esteja aberta para
+o jantar.

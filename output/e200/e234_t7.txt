@@ -1,0 +1,11 @@
+@3Assim como Ramon!@p &SetAni 1 think&Entäo talvez Simon
+tivesse parado de funcionar
+devidamente, näo?@p
+@c&SetAni 1 mouthopen&Acho que todos os robôs uma hora
+ou outra deixam de funcionar, e quando
+isso ocorre, Bruno vem para pegá-los.@p
+@cEntäo ele os concerta aqui no poräo
+da torre.@p
+@cAh! Você acha que os barulhos vindos
+da torre säo na verdade das máquinas
+de Bruno funcionando?

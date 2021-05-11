@@ -1,0 +1,7 @@
+Com licença senhores, a madame
+me chama.@p
+@c&SetAni 1 talk&Se está curioso sobre Ingrid, por que näo
+a visita e fala com ela própria?@p
+@cVamos ver, a esta hora do dia, creio que
+ela esteja andando ao redor da loja
+da vila.

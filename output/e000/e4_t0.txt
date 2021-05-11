@@ -1,0 +1,18 @@
+Ah, olá.@p
+Sou Percy, o "escritor residente"
+näo-oficial de St. Mystère.@p
+@cA Mansäo Reinhold?@p Pegue aquela rua à
+direita. Ela é imensa, entäo você vai
+saber que é ela quando a ver.@p
+@cMas antes de ir, por que näo tenta
+resolver este enigma que inventei?@p
+@cVeja se consegue descobrir qual das
+casas é a minha a partir das instruçöes
+que vou lhe dar.@p
+@cVou até deixar as coisas mais
+interessantes para você!@p
+@cSe conseguir resolver este enigma,
+vou contar uma coisa sobre esta vila.@p
+@cEntäo, que tal? Vai tentar, näo é?@p
+Afinal de contas, um escritor näo é
+nada sem um público!

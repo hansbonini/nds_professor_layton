@@ -1,0 +1,5 @@
+Este enigma é a chave para os pisos
+superiores da torre.@p
+@cSe näo o resolvermos, nunca seremos
+capazes de ver o que o resto da torre
+guarda.

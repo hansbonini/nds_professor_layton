@@ -1,0 +1,11 @@
+@1Por Lady Dahlia?@p Se é assim,
+eu adoraria baixar a ponte para 
+você, seu bocudo...@p
+@cMas o motor está quebrado e só posso
+mover esta maldita ponte com a manivela.@p
+Hrmph!@p
+@cTem estes buracos infernais aqui onde eu
+poderia encaixá-la, mas näo tenho ideia
+de qual usar...@p
+@cHrmph!@p &SetAnim 1 mufu&Entäo, seu sabichäo, tem
+alguma ideia de qual é o correto?

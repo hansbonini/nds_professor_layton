@@ -1,0 +1,6 @@
+A opçäo Engenhoca foi adicionada
+ao menu.@p
+@cToque a Mala para abri-la, e,
+em seguida, o ícone da Engenhoca.@p
+@cAqui poderá ver as várias partes
+mecânicas que você recolheu pela vila.

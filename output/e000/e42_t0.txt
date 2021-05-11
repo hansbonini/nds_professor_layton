@@ -1,0 +1,3 @@
+@1Você precisa de alguma coisa?@p PRECISA,
+näo é?@p Sim, posso ver no seu semblante.
+Um livro aberto é o que você é!

@@ -1,0 +1,11 @@
+Parece que você tem a intençäo de me
+responsabilizar por este crime,
+Inspetor.@p
+@cMas se você é um verdadeiro defensor
+da lei, entäo vai concordar que eu
+näo sou o único suspeito possível.@p
+@c&SetAni 0 talk_2&Qualquer pessoa nesta casa pode ter
+cometido o crime.@p
+@cNa verdade, você näo pode descartar nem
+mesmo a possibilidade de todos terem
+algo a ver com o assassinato.

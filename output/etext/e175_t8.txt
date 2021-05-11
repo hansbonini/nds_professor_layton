@@ -1,0 +1,8 @@
+Você é um cara esperto, rapaz!@p
+@cSabe, se está procurando por alguém,
+entäo você deve perguntar nos entornos
+da pousada, ou da cafeteria.@p
+@cComo deve saber, a pousada fica à
+direita da entrada da vila.@p
+@cA cafeteria fica à direita na bifurcaçäo
+da estrada ao norte daqui.

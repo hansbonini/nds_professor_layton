@@ -1,0 +1,6 @@
+Sim, a encontramos. Na verdade,
+acabamos de falar com ela.@p
+@c&SetAni 0 talk&Näo querendo desrespeitar, mas ela disse
+que o túmulo da esposa do baräo
+se situa por aqui.@p
+@cVocê sabe algo sobre isso?

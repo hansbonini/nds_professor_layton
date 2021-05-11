@@ -1,0 +1,15 @@
+@1Tudo bem, por mim.@p Porém, há uma
+coisa. Sabem, Gus e eu éramos
+apaixonados por enigmas.@p
+@cNäo seria correto deixar que dois
+estranhos que näo resolveram nem mesmo
+50 enigmas examinem seus pertences.@p
+@cQuando tiverem resolvido 50 enigmas,
+venham fazer uma visita a este velho,
+certo?@p
+@cO número de enigmas que vocês
+resolveram é indicado por aquele
+número sobre o mapa da vila.@p
+@cSe conseguirem solucionar 50 enigmas,
+ficarei feliz em lhes mostrar a mesa
+de Gus.

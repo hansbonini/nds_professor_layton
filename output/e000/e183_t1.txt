@@ -1,0 +1,6 @@
+Você também pode acessar a tela de
+montagem tocando na seta amarela,
+no topo da tela de seleçäo.@p
+@cRetorne à tela de seleçäo a partir da
+tela de montagem a qualquer momento,
+tocando em Trocar.

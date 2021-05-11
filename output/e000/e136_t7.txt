@@ -1,0 +1,5 @@
+@1Este vaso estava na sala onde Simon
+foi encontrado morto.@p
+@cTodas as evidências que reuni na perícia
+sugerem que o assassino acertou
+Simon com este vaso.

@@ -1,0 +1,4 @@
+Tenho um trabalho a fazer agora.@p Aliás,
+é o que deviam estar fazendo!@p@C
+&SetAni 0 point&Vocês näo deviam estar subindo? Até
+o topo da torre é um longo caminho!

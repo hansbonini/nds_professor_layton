@@ -1,0 +1,7 @@
+Há pouco estávamos conversando com
+o mordomo da Mansäo Reinhold.@p
+@cEle mencionou que a senhora
+trabalhava lá.@p
+@c&SetAni 0 talk_hands&Nós realmente gostaríamos de ouvir
+o que a senhora tem a dizer sobre
+o baräo. 

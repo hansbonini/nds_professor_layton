@@ -1,0 +1,4 @@
+@3Esta sala está cheia de máquinas
+estranhas. Eu nunca vi algo como elas
+antes.@p
+@cO que você acha que elas fazem?

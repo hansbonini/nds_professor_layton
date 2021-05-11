@@ -1,0 +1,3 @@
+Quer tentar resolver este enigma?@p
+@cTente descobrir qual das casas é a minha
+a partir das instruçöes que vou lhe dar.

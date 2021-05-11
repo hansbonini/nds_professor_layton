@@ -1,0 +1,7 @@
+Eu nunca ouvi algo que sugerisse isso,
+senhor.@p
+@c&SetAni 2 talk&Apenas aconteceu. Um dia, o baräo
+chegou em casa e, ao seu lado, estava
+Lady Dahlia.@p
+@c&SetAni 2 sad&Sinto muito em dizer que
+isso é tudo que sei.

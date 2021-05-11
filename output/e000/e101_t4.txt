@@ -1,0 +1,7 @@
+@3&SetAni 2 pachi&Seu amigo, você diz...@p Bem...@p
+@c&SetAni 2 talk&Ele näo era exatamente o tipo de pessoa
+que você chamaria de popular.@p Sinto
+muito, isso é tudo que me lembro.@p
+@cAh, espere um momento.@p Acredito ter
+visto aquele tal de Zappone visitar a
+mansäo algumas vezes.&SetAni 2 pachi&

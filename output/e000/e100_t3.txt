@@ -1,0 +1,9 @@
+Antes de tudo, precisamos encontrar
+uma pista que nos leve mais perto da
+Maçä Dourada.@p
+@cTalvez um dos parentes, ou amigos
+próximos, do Baräo Reinhold possa
+nos apontar a direçäo certa.@p
+@c&SetAni 0 smile&É claro, há mais alguém...
+@pVamos ver se o mordomo tem algo
+a nos dizer sobre o assunto.

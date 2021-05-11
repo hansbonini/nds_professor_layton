@@ -1,0 +1,5 @@
+Ah, olá!@p Sejam bem-vindos à pousada
+de St. Mystère. Sabe, esta é a única
+pousada em toda vila.@p
+@cVejam só, turistas säo coisas bem
+raras aqui na nossa pequena vila.

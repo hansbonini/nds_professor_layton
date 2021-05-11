@@ -1,0 +1,4 @@
+@1&SetAni 1 talk&Ah, sim!@p Encontrei isso na rua enquanto
+estava fora procurando pela minha
+manivela.@p
+@cTem alguma ideia do que é isso?

@@ -1,0 +1,8 @@
+O que procura está no último andar
+da torre.@p
+@cMas cuidado, porque os enigmas nesta
+torre säo mais complicados do que
+os outros.@p
+@cEu sei que o chamam de mestre dos
+enigmas, mas você tem certeza de que
+tem o necessário para resolvê-los?

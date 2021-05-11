@@ -1,0 +1,24 @@
+@1Acredito que você já tenha notado que
+pode tentar outra vez os enigmas que
+você näo consegui resolver, hein?@p
+@c&SetAni 0 angry&Contudo...!@p Você notou que alguns
+enigmas simplesmente somem antes que
+você chegue outra vez até eles?@p
+@cIsso mesmo. Veja, é assim que as coisas
+funcionam na vida. Quando se väo,
+se väo...@p
+@cPara sempre!@p
+@c&SetAni 0 talk&Mas fiquem calmos, vocês dois. Esses
+enigmas, que aparentemente sumiram,
+foram apenas levados a outro lugar.@p
+@cVocê deve visitar a cabana da Vovó
+Riddleton.@p
+@cÉ uma construçäo velha e estranha,
+entäo acredito que será fácil
+encontrá-la.@p
+@cMas näo relaxe agora que descobriu que
+poder tentar outra vez os enigmas!
+@p&SetAni 0 talk&Näo há honra alguma na preguiça!@p
+@cBem, agora que você sabe a verdade
+sobre os enigmas da vila, deixe-me
+mostrar um para que continue esperto.

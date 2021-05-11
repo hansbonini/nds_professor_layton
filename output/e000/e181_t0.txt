@@ -1,0 +1,4 @@
+Todas as engenhocas que você recolheu
+por St. Mystère estäo alinhadas na
+tela sensível ao toque.@p
+@cToque em uma para colocá-la no lugar.

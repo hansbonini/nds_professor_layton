@@ -1,0 +1,6 @@
+Fascinante! Parece que esse enigma está
+atuando como um tipo de fechadura para
+esta porta.@p &SetAni 0 smile&Que delícia!@p
+@cLuke, meu garoto, por que näo tenta
+resolver este enigma?@p É bem provável
+que a porta se abra ao fazê-lo.

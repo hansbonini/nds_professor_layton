@@ -1,0 +1,11 @@
+Se a cabana estiver vazia, entäo você
+apenas precisará sair dela e ir atrás de
+mais alguns enigmas!@p
+@cPor outro lado, se você deixar muitos
+enigmas näo solucionados, nem todos
+poderäo caber na cabana!@p
+@cSe esse for o caso, você poderá ver o
+resto dos enigmas perdidos tocando no
+ícone da vassoura que irá aparecer.@p
+@cAgora vá em frente e veja o que o
+espera dentro da cabana.

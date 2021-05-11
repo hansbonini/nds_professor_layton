@@ -1,0 +1,5 @@
+Hmm... &SetAni 0 Think&É uma voz familiar.@p Bem, parece
+que esse mistério terá que esperar.@p
+@cSe näo resolvermos 75 enigmas primeiro,
+nunca conseguiremos entrar na torre.
+Vamos voltar à vila.

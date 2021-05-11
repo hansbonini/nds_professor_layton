@@ -1,0 +1,9 @@
+Os enigmas já resolvidos possuem uma
+marca ao lado deles. Os que você achou,
+mas näo resolveu, estäo em branco.@p
+@cVocê pode repetir qualquer enigma
+que já tenha sido resolvido
+por essa tela.@p
+@cPara repetir os enigmas que você ainda
+näo resolveu, será preciso retornar ao
+local original do enigma.

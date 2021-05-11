@@ -1,0 +1,5 @@
+Sim, é um gato de rua, e, julgando pela
+maneira com que ele brinca com aquele
+pobre rato, um bem malvado.@p
+@c&SetAni 0 smile_hands&Ah, sim. Luke, falando de ratos,
+já escutou esta antes?

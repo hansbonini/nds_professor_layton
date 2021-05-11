@@ -1,0 +1,12 @@
+@1Quem você está chamando de "senhor"?!@p
+Sou uma pessoa jovem!@p Ah, esqueça isso! &SetAni 2 angry&
+Estou FURIOSO!@p
+@cAquele som! Aquele barulho horrível!
+Näo consigo nem tirar um cochilo
+durante a noite!@p
+@c&SetAni 2 talk&Geralmente, aquela torre só fazia
+barulho uma vez ou outra, mas agora
+a ruideira é ininterrupta!@p
+@cComo espera que eu durma?@p &SetAni 2 angry&
+Você me escutou, torre?
+COMO ESPERA QUE EU DURMA?!

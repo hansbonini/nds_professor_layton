@@ -1,0 +1,17 @@
+@1Entäo você quer passar pela torre do
+relógio? Hmm, é que...@p Você näo é o
+famoso solucionador de enigmas?@p
+@cBem, entäo como conseguiu resolver
+täo poucos enigmas?@p
+@cDesculpe, mas você näo irá passar além
+daqui até que tenha resolvido 12 enigmas!
+Essa é a regra!@p
+@cVocê sabe que pode ver quantos enigmas
+já resolveu olhando no canto superior 
+esquerdo do mapa, certo?@p
+@cEntäo vá e solucione mais alguns!
+Eles näo säo täo difíceis de achar.@p
+@cTalvez você até encontre alguns dos que
+se esqueceu na cabana da Vovó Riddleton.@p
+@cO que foi? Näo sabe onde é a casa dela?@p
+É bem perto daqui. Vá procurá-la.

@@ -1,0 +1,4 @@
+Hyem nyem.@p &SetAni 2 talk&Voshê näo pode enganar esta
+velha garota! Eu vi voshê pasheando por
+aí resolvendo os enigmas dos outros.@p
+@cE agora é a minha vez!

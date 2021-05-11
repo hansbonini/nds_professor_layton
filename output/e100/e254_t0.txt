@@ -1,0 +1,8 @@
+@1Ei, Professor, você achou o que
+estava procurando?@p
+@cBom, esqueça isso. Eu tenho algo
+mais importante para cuidar.@p
+Ou seja, chocolate.@p
+@cAjude-me a resolver este enigma e
+eu lhe direi algo que aposto ser
+BEM interessante.

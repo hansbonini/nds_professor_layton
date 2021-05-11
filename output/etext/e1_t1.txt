@@ -1,0 +1,5 @@
+@1Eu PAREÇO com alguém que sai por 
+aí baixando a ponte para um bando
+de estranhos bem-vestidos?@p
+@cHrmph!@p&SetAni 1 mufu&
+Você é muito petulante!

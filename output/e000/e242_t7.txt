@@ -1,0 +1,3 @@
+@1Keh heh heh! Muito bem.@p Amo o jeito que
+você fica quando se fala de enigmas.
+&SetAni 0 angry&Você é o meu tipo de homem!

@@ -1,0 +1,2 @@
+@1Muito difícil para você, é?@p &SetAni 0 angry&Que pena!
+Pensei que fosse mais inteligente!

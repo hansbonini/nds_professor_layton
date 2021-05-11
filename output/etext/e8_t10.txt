@@ -1,0 +1,6 @@
+A opçäo Pousada foi adicionada à mala.@p
+@cA pousada é um enigma em que você
+organiza alguns itens nos quartos
+do professor e de Luke.@p
+@cPara acessá-lo, toque o ícone da Mala,
+e entäo o da Pousada.

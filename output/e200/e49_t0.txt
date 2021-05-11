@@ -1,0 +1,4 @@
+@1Entäo você é o famoso Professor
+Layton?@p Me chamo Chelmey,
+Inspetor Chelmey.@p
+@cSou o responsável por este caso.

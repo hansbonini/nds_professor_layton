@@ -1,0 +1,5 @@
+@3É um jornal velho.@W2 Sério, eu pensava
+que todo mundo sabia que lixo se joga
+no lixo...@p
+@c&SetAni 1 mouthopen&Espere um segundo! Você tem que olhar
+este artigo!

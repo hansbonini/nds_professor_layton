@@ -1,0 +1,11 @@
+@1Ei! 
+Você esteve bastante ocupado
+resolvendo enigmas, näo é?@p
+@cSe quiser passar por aqui, entäo terá
+que ter resolvido pelo menos 12 enigmas
+primeiro.@p
+@cMas parece que você já fez isso! 
+Hmm.@p Bem, acho que acabei de
+mentir para você.@p
+@cSe quiser realmente passar por aqui,
+entäo terá que resolver mais um enigma.

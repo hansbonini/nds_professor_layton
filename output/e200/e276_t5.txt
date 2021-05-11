@@ -1,0 +1,12 @@
+Pshaw! Qualquer cartomante pode fazer
+isso. E daí se você puder ver alguns
+dias do futuro?@p Grande coisa!@p
+@cMinha especialidade säo enigmas!@p
+Enigmas que as pessoas esquecem!@p
+Enigmas que as pessoas näo fazem!
+@c&SetAni 2 finger&Certamente vocês dois já tiveram um
+desses, näo?@p Näo precisam ter vergonha.
+Acontece também com os melhores.@p
+@cO que eu faço, como vê, é pegar
+esses pobres e perdidos enigmazinhos
+e convidá-los a ficar comigo.

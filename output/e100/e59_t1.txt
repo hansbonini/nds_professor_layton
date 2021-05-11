@@ -1,0 +1,14 @@
+@3Bravo!&SetAni 0 pachipachi&@p
+@c&SetAni 0 talk&Acho que você já pegou o jeito.
+Se tentar as opçöes uma por uma,
+uma hora irá encontrar a resposta.@p
+@cPorém, você também encontrará muitos
+enigmas que näo poderäo ser resolvidos
+somente tentando todas as respostas.@p
+@cSe responder errado, as picarats que
+você pode ganhar pelo enigma iräo
+diminuir. Complicado, näo é?@p
+@cIsso é para mostrar o quäo importante
+é pensar antes de sair respondendo.@p
+@cBem, isso é tudo! Boa sorte para vocês!
+Estarei torcendo pelos dois!&SetAni 0 pachipachi&

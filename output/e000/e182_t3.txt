@@ -1,0 +1,13 @@
+Toda vez que você conseguir um novo
+item, será perguntado em que quarto
+quer colocá-lo.@p
+@cVocê pode mudar a decoraçäo dos quartos
+sempre que preferir, entäo näo pense
+muito sobre onde colocar os itens.@p
+@cQuando conseguir um novo item, e um dos
+quartos estiver cheio, ele será mandado
+para o quarto com espaço disponível.@p
+@cQuando tanto Luke como o Professor
+estiverem completamente satisfeitos
+com seus quartos@W2.@W2.@W2.@W2@p
+@calgo muito bom irá acontecer!

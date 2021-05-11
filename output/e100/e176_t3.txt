@@ -1,0 +1,11 @@
+@3O que achou do meu enigma? Legal,
+näo é?@p Você fez um trabalho täo bom,
+que vou lhe contar um segredo!@p
+@cOuvi dizer que há um monstro comedor de
+pessoas na torre, e é por isso que todos
+ficam longe dela.@p
+@cNäo sou tola para acreditar que há
+um monstro lá dentro, mas aquele lugar
+é, de fato, perigoso.@p
+@cEntäo tome cuidado lá dentro,
+cavalheiro!

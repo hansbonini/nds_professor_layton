@@ -1,0 +1,6 @@
+Sim, St. Mystère é um lugar estranho.
+Apesar do seu tamanho, é bastante
+desafiador encontrar as pessoas.@p
+@cÉ como se você estivesse num labirinto.
+@pFalando em labirintos, já ouviu essa
+antes, rapaz?

@@ -1,0 +1,11 @@
+@1E säo nessas horas que vocês iräo querer
+usar uma moeda para comprar uma dica.@p
+@c&SetAni 0 talk&Aposto que pensam que todos os enigmas
+seräo fáceis agora, hein?@p&SetAni 0 angry&
+Pensem de novo!@p
+@c&SetAni 0 talk&Há um número limitado de moedas de dica
+nesta vila!@p Entäo näo saiam gastando
+moedas com qualquer enigma.@p
+@c&SetAni 0 angry&Porque, se fizerem isso, quando chegarem
+numa pergunta realmente difícil, vocês
+estaräo em apuros!@p&SetAni 0 angry& GRAANDES apuros!

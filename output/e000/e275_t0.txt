@@ -1,0 +1,8 @@
+@3Professor, já percebeu que esta porta
+tem uma cor diferente de todas as outras
+desta área?@p
+@cE olha para essas vinhas. Você já viu
+elas crescendo em alguma outra casa em
+St. Mystère?@p
+@cEsta placa na porta diz
+"Casa dos Enigmas".

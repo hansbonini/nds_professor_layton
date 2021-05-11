@@ -1,0 +1,6 @@
+Verdade.@p Eu näo tenho certeza ainda
+do que há por trás desta porta, mas é
+claro que há enigmas lá dentro.@p
+@cInfelizmente, a porta está trancada,
+e näo faz sentido ficar aqui esperando
+ela ser aberta. Vamos retornar depois.
